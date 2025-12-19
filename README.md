@@ -1,0 +1,2 @@
+# SpendingTracker
+Personal project.
